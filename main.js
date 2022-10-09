@@ -4,8 +4,8 @@ ctx=canvas.getContext("2d");
 backgroundImage = "park-a-lot-2_1600x0w.jpeg";
 carImage = "Car1.jpg"
 
-carX=10;
-carY=10;
+carX=50;
+carY=170;
 
 carWidth = 65;
 carHeight = 35;
